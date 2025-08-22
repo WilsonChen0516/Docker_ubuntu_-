@@ -11,4 +11,4 @@ Docker：把程式、依賴、環境打包成「容器」，到哪台機器都�
 GPU in Docker：需要 NVIDIA 驅動 + NVIDIA Container Toolkit；容器裡用 --gpus all。  
 ## 1.準備 GPU 執行環境
 1. 檢查主機 NVIDIA 驅動  
-```bash  nvidia-smi```
+<pre> ```bash nvidia-smi ``` </pre>
