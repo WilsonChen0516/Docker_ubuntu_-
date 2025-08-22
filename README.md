@@ -13,6 +13,7 @@ GPU in Docker：需要 NVIDIA 驅動 + NVIDIA Container Toolkit；容器裡用 -
 1. 檢查主機 NVIDIA 驅動  
 ```bash
 nvidia-smi
+
 2. 安裝 NVIDIA Container Toolkit（讓容器能用 GPU）
 ```bash
 # 官方套件庫
